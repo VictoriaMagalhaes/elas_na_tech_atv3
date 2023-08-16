@@ -33,7 +33,7 @@ Site inspirado na história da atriz e inventora: Hedy Lamarr.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. 
 
 ---
 
